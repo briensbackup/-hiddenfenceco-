@@ -1,5 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  api_root: https://api.github.com
+  site_domain: cms.netlify.com
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
   repo: brienpacholec/-hiddenfenceco-
   branch: master # Branch to update (optional; defaults to master)
 
