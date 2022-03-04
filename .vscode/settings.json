@@ -1,0 +1,27 @@
+{
+  "todo-tree.regex": "((//|#|<!--|;|/\\*|^|\\*)\\s*($TAGS)|^\\s*- \\[ \\])",
+  "todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^|\\*)\\s*($TAGS)|^\\s*- \\[ \\])",
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#641c18",
+    "activityBar.activeBorder": "#757575",
+    "activityBar.background": "#c6423b",
+    "activityBar.foreground": "#cfcece",
+    "activityBar.inactiveForeground": "#cfcece",
+    "activityBarBadge.background": "#757575",
+    "activityBarBadge.foreground": "#cfcece",
+    "statusBar.background": "#c6423b",
+    "statusBar.foreground": "#cfcece",
+    "statusBarItem.hoverBackground": "#641c18",
+    "titleBar.activeBackground": "#c6423b",
+    "titleBar.activeForeground": "#cfcece",
+    "titleBar.inactiveBackground": "#641c18",
+    "titleBar.inactiveForeground": "#cfcece"
+  }
+}
